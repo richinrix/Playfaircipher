@@ -4,7 +4,7 @@ This uses Playfair cipher encryption and decryption.
 
 The input asks for the :
 * message u want to encrypt/decrypt.
-* the secret key with only which u can decrypt the text message.
+* the secret key with only which u can encrypt/decrypt the text message.
 
 The inputs should be only text and no number.
 
