@@ -1,4 +1,4 @@
-#Playfair
+#     Playfair
 
 This uses Playfair cipher encryption and decryption
 The input asks or the -message u want to encrypt/decrypting
