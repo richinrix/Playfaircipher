@@ -1,3 +1,5 @@
+# Playfair
+
 This uses Playfair cipher encryption and decryption
 The input asks or the -message u want to encrypt/decrypting
                       -the secret key with only which u can decrypt the text message
